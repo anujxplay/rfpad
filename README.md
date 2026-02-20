@@ -16,6 +16,10 @@ The goal was to transform multi-source retail data (transactions, customers, pro
 
 ---
 
+# Preview :
+![](rfpad.png)
+---
+
 # 🎯 T – Task
 
 - Design a clean and optimized star-schema data model
